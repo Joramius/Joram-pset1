@@ -1,7 +1,7 @@
 # Joram-pset1
 
 **Native App Studio,
-problem 1: Mr. Potatohead**
+project 1: Mr. Potatohead**
 
 ### Bronnen
 
