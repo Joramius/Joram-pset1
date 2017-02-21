@@ -6,7 +6,7 @@ project 1: Mr. Potatohead**
 ### Bronnen
 
 * Imageviews id's geven voor cross-layout-referentie: [YouTube](https://www.youtube.com/watch?v=Y7JTkXoN8OE)
- * Alleen een beetje jammer dat ie bij orientatiewijziging alles opnieuw tekent, maar dat ziet er voor nu even [te ingewikkeld](http://stackoverflow.com/questions/3542333/how-to-prevent-custom-views-from-losing-state-across-screen-orientation-changes/3542895#3542895) uit.
+* Zichtbaarheid attributen ~~bewaren~~ herstellen bij het draaien van het scherm: [Stackoverflow](http://stackoverflow.com/questions/7289827/how-to-start-animation-immediately-after-oncreate)
 * Id's selecteren met variabelen: [Stackoverflow](http://stackoverflow.com/questions/4865244/android-using-findviewbyid-with-a-string-in-a-loop)
 * Op wat syntaxdingetjes na de rest uit de androiddocumentatie.
 
